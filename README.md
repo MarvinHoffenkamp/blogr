@@ -1,6 +1,6 @@
 # Blogr
 [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Laravel][Laravel.com]][Laravel-url]  
-A small personal blogging platform, built on Laravel 10 and Bootstrap 5. Currently work in progress. Plan is to expand and perfect it over time.
+A small personal blogging platform, built on Laravel 10 and Bootstrap 5 (though the idea was to use TailwindCSS). Currently work in progress. Plan is to expand and perfect it over time.
 
 ## Progress:
 - [x] Building posts
